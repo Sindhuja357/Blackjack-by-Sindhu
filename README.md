@@ -23,7 +23,9 @@ python blackjack_game.py
 3. Follow On-screen Instructions:
 
 -Receive initial cards and choose to take more cards or stick with your current hand.
+
 -The computer dealer will follow a set of rules to play its hand.
+
 -The winner is determined based on the total value of the cards and specific rules.
 
 4. Enjoy the Game!
